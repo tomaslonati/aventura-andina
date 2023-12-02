@@ -74,6 +74,28 @@
         "img/3.jpg",
         "img/4.jpg"
       ]
+    },
+    {
+      "nombre" : "Safari Azul",
+      "id": 3,
+      "subtitulo" : "Actividad APTA para personas entre 6 y 70 años, SIN EXCEPCIÓN. El Safari Azul está pensado para aquellos que, además de navegar frente al Glaciar Perito Moreno, sueñan con acercarse al hielo glaciar!",
+      "descripcion" : [
+        "Esta excursión es una oportunidad única de tocar el glaciar Perito Moreno! Incluye una navegación de 20 mn frente a la cara Sur del glaciar desde el puerto Bajo la Sombra para cruzar el Brazo Rico, uno de los brazos Sur del Lago Argentino y una caminata guiada acercándose a los hielos centenarios donde podrán sacarse fotos y tocarlos! La caminata total es de 1.30hs aproximadamente por un terreno natural de arena y piedras con algunas pendientes y escaleras. El recorrido, de un kilómetro y medio, será por la costa del lago y por un frondoso bosque con vista al Glaciar.        ",
+        "Apto para personas de 7 a 70 años."
+      ],
+      "duración" : "3 horas sin traslado; 8 horas en bus regular incluyendo 2 horas en las pasarelas frente al glaciar Perito Moreno.",
+      "duracionCard":"3 hs",
+      "incluye" : [
+        "Guía bilingüe en castellano e inglés"
+      ],
+      "incluyeCard":"ENG/SPA",
+      "noIncluye" : [],
+      "imagenes" : [
+        "img/1.jpg",
+        "img/2.jpg",
+        "img/3.jpg",
+        "img/4.jpg"
+      ]
     }
   ]
 }
