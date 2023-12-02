@@ -4,7 +4,7 @@
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "excursiones" : [
     {
       "name" : "Molecule Man",
       "age" : 29,
