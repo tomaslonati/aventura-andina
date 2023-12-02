@@ -1,41 +1,80 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
   "active" : true,
   "excursiones" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "nombre" : "Excursión al Glaciar Perito Moreno",
+      "id": 0,
+      "subtitulo" : "El glaciar más famoso de la Patagonia está a su alcance! Una experiencia inolvidable frente a una maravilla de la Naturaleza, fácil  acceso gracias a la ruta pavimentada n°11 y al sector de pasarelas y balcones frente a las imponentes paredes de hielo glaciario.",
+      "descripcion" : [
+        "Visita el glaciar más famoso del Parque Nacional Los Glaciares, declarado patrimonio natural de la Humanidad por la UNESCO, con nuestro guía quien estará a cargo de hacerles descubrir en el camino (80 km)la fauna y la flora particular de la Patagonia austral. Desde el Calafate hasta el glaciar el paisaje de estepa se transforma progresivamente en zona húmeda correspondiente al bosque de Magallanes, el más austral del planeta. En ese escenario surge la vista imponente al glaciar Perito Moreno, el tercero más grande del país y  lejos el más visitado del continente. Conocido por sus rupturas, podrán además escucharlo crujir a medida que sus hielos se desprenden de su frente para caer en las aguas turquesas del Lago Argentino.",
+        "Podrán caminar en las pasarelas metálicas con sus 4 km de largo para disfrutar de su frente. En el parque tendrán servicios de baños, cafetería, restaurante y tienda de souvenirs."
+      ],
+      "duración" : "8 horas",
+      "duracionCard":"8 hs",
+      "incluye" : [
+        "Guía bilingüe en castellano e inglés"
+      ],
+      "incluyeCard":"Guía ENG/SPA",
+      "noIncluye" : [],
+      "imagenes" : [
+        "img/1.jpg",
+        "img/2.jpg",
+        "img/3.jpg"
+      ],
+      "ruta":"glaciar-perito-moreno.html"
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "nombre" : "Safari Náutico",
+      "id": 1,
+      "subtitulo" : "Navegación de 1 hora acercándose a 300 m. de la pared Sur del famoso glaciar Perito Moreno saliendo del puerto Bajo las Sombras a  orillas del Brazo Rico, uno de los brazos Sur del Lago Argentino.",
+      "descripcion" : [
+        "La excursión comienza en el puerto “Bajo de las Sombras”, ubicado en la Ruta 11, Km 70.9, a una hora y media de El Calafate y a solo 7km del Glaciar. Esta navegación tiene una duración de una hora y brinda la posibilidad de observar desde nuestras confortables embarcaciones, y con una perspectiva totalmente diferente, las impresionantes paredes del Glaciar Perito Moreno y sus continuos y estruendosos derrumbes sobre las aguas del Lago Rico.",
+        "A 400 metros de la pared sur del Glaciar Perito Moreno, el barco se detiene por unos minutos para poder observar más detalladamente el paisaje. ¡Mas cerca de la pared de la ruptura, imposible!",
+        "El Safari Náutico es una navegación apta para todas las edades y se puede realizar los 365 días del año.",
+        "Esta excursión está orientada a personas que quieren contemplar la magia del hielo e inmortalizarla en la memoria, observando cada detalle de la pared de hielo y su entorno",
+        "Salidas desde puerto “Bajo de las sombras”: 10:00, 11:30 y 14:30 hs. (consultar por otras salidas"
+      ],
+      "duración" : "1 hora. Combina con la visita al glaciar Perito Moreno.",
+      "duracionCard":"1 hs",
+      "incluye" : [
+        "Guía bilingüe en castellano e inglés"
+      ],
+      "incluyeCard":"Guía ENG/SPA",
+      "noIncluye" : [],
+      "imagenes" : [
+        "img/1.jpg",
+        "img/2.jpg",
+        "img/3.jpg",
+        "img/4.jpg",
+        "img/5.jpg"
+      ],
+      "ruta":"safari_nautico.html"
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "nombre" : "Moreno Spirit",
+      "id": 2,
+      "subtitulo" : "Navegación de 1 hora en frente de la pared Norte del famoso glaciar Perito Moreno. Saliendo del puerto Moreno a la orilla del canal de los Tempanos, el barco se acerca a unos 300 metros del frente del glaciar.",
+      "descripcion" : [
+        "Moreno Spirit visita el glaciar más famoso de la Patagonia, el Perito Moreno.",
+        "Ubicado en el extremo suroeste de la provincia de Santa Cruz, en el Parque Nacional Los Glaciares, a 80 km. de la ciudad de El Calafate (República Argentina).",
+        "Único por su belleza e imponencia, ésta enorme masa de hielo nace en el Campo de Hielo Sur y recorre 30km de largo hasta llegar y finalizar frente a la Península de Magallanes, sobre el Lago Argentino, donde la altura de sus paredes sobrepasan los 60 mts. sobre el nivel del lago.",
+        "Salimos todos los días desde Puerto Moreno (ubicado al pie de las pasarelas del paseo costero) sobre el Canal de los Témpanos. En minutos nuestra embarcación arriba al frente de la pared norte del glaciar, donde se puede apreciar su altura y su tamaño, desde una perspectiva totalmente diferente a lo que se observa desde las pasarelas.",
+        "Visitamos la zona donde (cada cierta cantidad de años) se produce la famosa ruptura del glaciar, fenómeno que ha hecho que el glaciar Perito Moreno sea conocido a nivel mundial. Luego realizamos una lenta navegación frente a todo el ancho de la pared norte. Si tenemos suerte, podremos observar algún desprendimiento del glaciar."
+      ],
+      "duración" : "1 hora. Combina con la visita al glaciar Perito Moreno.",
+      "duracionCard":"1 hs",
+      "incluye" : [
+        "Guía bilingüe en castellano e inglés"
+      ],
+      "incluyeCard":"Guía ENG/SPA",
+      "noIncluye" : [],
+      "imagenes" : [
+        "img/1.jpg",
+        "img/2.jpg",
+        "img/3.jpg",
+        "img/4.jpg"
       ]
     }
   ]
 }
+
