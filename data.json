@@ -15,7 +15,9 @@
         "Guía bilingüe en castellano e inglés"
       ],
       "incluyeCard":"ENG/SPA",
-      "noIncluye" : [],
+      "noIncluye" : [
+        "Guía bilingüe en castellano e inglés"
+      ],
       "imagenes" : [
         "img/1.png",
         "img/2.png",
