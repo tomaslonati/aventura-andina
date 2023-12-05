@@ -15,9 +15,7 @@
         "Guía bilingüe en castellano e inglés"
       ],
       "incluyeCard":"ENG/SPA",
-      "noIncluye" : [
-  
-      ],
+      "noIncluye" : [],
       "imagenes" : [
         "img/1.png",
         "img/2.png",
@@ -97,7 +95,8 @@
         "img/2.png",
         "img/3.png",
         "img/4.png"
-      ]
+      ],
+      "ruta": "safari_azul.html"
     }
   ]
 }
